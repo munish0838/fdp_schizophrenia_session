@@ -1,0 +1,6 @@
+ipykernel 
+ipywidgets 
+opencv-python 
+antspyx 
+SimpleITK 
+antspynet
